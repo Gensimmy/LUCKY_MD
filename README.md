@@ -1,4 +1,4 @@
-# FEE XMD WhatsApp Bot 🤖
+# FEE BLACK FIRE WhatsApp Bot 🤖
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Fred1e/Fee-Xmd/main/fredi.jpg" alt="FEE XMD Logo" width="220">
